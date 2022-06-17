@@ -15,7 +15,7 @@
     <properties>
         <commons.version>2.6</commons.version>
         <jsondoc.version>1.1.13</jsondoc.version>
-        <fastjson.version>1.2.57</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
     </properties>
 
     <dependencies>
